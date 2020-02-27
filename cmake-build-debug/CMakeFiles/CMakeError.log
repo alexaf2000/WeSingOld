@@ -1,0 +1,89 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_db57e/fast && mingw32-make.exe[1]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_db57e.dir\build.make CMakeFiles/cmTC_db57e.dir/build
+mingw32-make.exe[2]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_db57e.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_db57e.dir\CheckIncludeFile.c.obj   -c C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: pthread.h: No such file or directory
+ #include <pthread.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_db57e.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_db57e.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[2]: *** [CMakeFiles/cmTC_db57e.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[2]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_db57e/fast' failed
+mingw32-make.exe[1]: *** [cmTC_db57e/fast] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file dinput.h exists failed with the following output:
+Change Dir: C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_ef2cb/fast && mingw32-make.exe[1]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ef2cb.dir\build.make CMakeFiles/cmTC_ef2cb.dir/build
+mingw32-make.exe[2]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ef2cb.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_ef2cb.dir\CheckIncludeFile.c.obj   -c C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: dinput.h: No such file or directory
+ #include <dinput.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_ef2cb.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_ef2cb.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[2]: *** [CMakeFiles/cmTC_ef2cb.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[2]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_ef2cb/fast' failed
+mingw32-make.exe[1]: *** [cmTC_ef2cb/fast] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file xinput.h exists failed with the following output:
+Change Dir: C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_d0ac9/fast && mingw32-make.exe[1]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_d0ac9.dir\build.make CMakeFiles/cmTC_d0ac9.dir/build
+mingw32-make.exe[2]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d0ac9.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_d0ac9.dir\CheckIncludeFile.c.obj   -c C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: xinput.h: No such file or directory
+ #include <xinput.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles\cmTC_d0ac9.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_d0ac9.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[2]: *** [CMakeFiles/cmTC_d0ac9.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[2]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_d0ac9/fast' failed
+mingw32-make.exe[1]: *** [cmTC_d0ac9/fast] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Performing C SOURCE FILE Test _GLFW_HAS_64ASLR failed with the following output:
+Change Dir: C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_3f148/fast && mingw32-make.exe[1]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_3f148.dir\build.make CMakeFiles/cmTC_3f148.dir/build
+mingw32-make.exe[2]: Entering directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3f148.dir/src.c.obj
+C:\MinGW\bin\gcc.exe   -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va   -o CMakeFiles\cmTC_3f148.dir\src.c.obj   -c C:\Users\alex_\CLionProjects\untitled\cmake-build-debug\CMakeFiles\CMakeTmp\src.c
+Linking C executable cmTC_3f148.exe
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_3f148.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_3f148.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_3f148.dir/objects.a @CMakeFiles\cmTC_3f148.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe  -D_GLFW_HAS_64ASLR -Wl,--high-entropy-va    -Wl,--whole-archive CMakeFiles\cmTC_3f148.dir/objects.a -Wl,--no-whole-archive  -o cmTC_3f148.exe -Wl,--out-implib,libcmTC_3f148.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_3f148.dir\linklibs.rsp
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: unrecognized option '--high-entropy-va'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: use the --help option for usage information
+collect2.exe: error: ld returned 1 exit status
+CMakeFiles\cmTC_3f148.dir\build.make:87: recipe for target 'cmTC_3f148.exe' failed
+mingw32-make.exe[2]: *** [cmTC_3f148.exe] Error 1
+mingw32-make.exe[2]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_3f148/fast' failed
+mingw32-make.exe[1]: *** [cmTC_3f148/fast] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/alex_/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
